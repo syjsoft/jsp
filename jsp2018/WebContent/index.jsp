@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-git & jsp 
+git & jsp (한글)
 </body>
 </html>
